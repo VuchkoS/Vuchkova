@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vuchkova
+- 👋 Hi, I’m @Vuchkova. I am on the road to become a software developer. Starting almost from scratch. 
 
 - 👀 I’m interested in AI, neuroscience, blockchain, quantum physics
 
