@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vuchkova. I am on the road to become a software developer. Starting almost from scratch. 
+- 👋 Hi, I’m @VuchkoS. On the road to becomming a software developer. 
 
 - 👀 I’m interested in AI, neuroscience, blockchain, quantum physics
 
