@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in AI, neuroscience, blockchain, quantum physics
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Javascript, HTML, CSS, React
 
 - 💞️ I’m looking to collaborate on any cool projects. I need to LEARN, learn, learn!!! Goal: get a junior software development job by summer 2022.
 
